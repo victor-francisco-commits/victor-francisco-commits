@@ -1,12 +1,12 @@
-# Hola, soy Victor Urday 👋
+# Hola, soy Victor Urday 
 ### Estudiante de Ingeniería Mecatrónica | Sistemas Embebidos, Visión Artificial y Automatización
-📍 Arequipa, Perú
+Arequipa, Perú
 
 Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, actuadores), algoritmos de procesamiento digital de imágenes en Python, sistemas de control y diseño mecánico/eléctrico bajo normativa.
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+### Stack Tecnológico y Herramientas
 
 * **Programación y Visión Artificial:** Python, OpenCV, NumPy, Matplotlib, scikit-image, C/C++ (Arduino IDE), MicroPython
 * **Sistemas Embebidos y Hardware:** ESP32 (ESP32-WROVER-DEV CAM), Arduino Uno/Nano, sensores ultrasónicos (HC-SR04), celdas de carga (HX711), drivers (L298N, A4988), servomotores y motores paso a paso
@@ -15,7 +15,7 @@ Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, 
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 #### 1. Sistema Automatizado de Control de Calidad con Visión Artificial
 * **Descripción:** Faja transportadora automatizada capaz de detectar, clasificar y separar objetos no conformes en tiempo real mediante procesamiento de imágenes.
@@ -27,7 +27,7 @@ Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, 
 * **Descripción:** Sistema mecatrónico de dosificación controlada por peso y nivel con monitoreo remoto.
 * **Tecnologías:** `MicroPython` `ESP32` `HX711` `HC-SR04` `Motor Paso a Paso`
 * **Implementación:** Servidor web embebido en ESP32 para control remoto, lectura de celda de carga con módulo HX711, medición de nivel por ultrasonido y accionamiento preciso mediante driver A4988.
-* 🔗 [Ver código y esquemas en el repositorio](#)
+* 🔗 [Ver código y esquemas en el repositorio](https://github.com/victor-francisco-commits/dispensador-automatizado-esp32)
 
 #### 3. Diseño Eléctrico Industrial y Modelado CAD Mecánico
 * **Descripción:** Ingeniería de detalle para instalaciones eléctricas de talleres industriales y diseño mecánico de sistemas de transporte.
@@ -37,6 +37,6 @@ Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, 
 
 ---
 
-### 📫 Contacto Profesional
+### Contacto Profesional
 * **LinkedIn:** [linkedin.com/in/tu-perfil](#)
 * **Correo:** tu.correo@ejemplo.com
