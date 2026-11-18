@@ -21,7 +21,7 @@ Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, 
 * **Descripción:** Faja transportadora automatizada capaz de detectar, clasificar y separar objetos no conformes en tiempo real mediante procesamiento de imágenes.
 * **Tecnologías:** `Python` `OpenCV` `ESP32-WROVER-DEV CAM` `HC-SR04` `L298N`
 * **Implementación:** Adquisición de video vía Wi-Fi desde módulo ESP32-CAM, detección de contornos y geometría en OpenCV, y sincronización de parada/descarte con sensor ultrasónico y servomotores (MG996R / SG90).
-* 🔗 [Ver código y demostración en el repositorio](#)
+* 🔗 [Ver código y demostración en el repositorio](https://github.com/victor-francisco-commits/faja-vision-artificial-esp32)
 
 #### 2. Dispensador Automatizado con Telemetría Web
 * **Descripción:** Sistema mecatrónico de dosificación controlada por peso y nivel con monitoreo remoto.
