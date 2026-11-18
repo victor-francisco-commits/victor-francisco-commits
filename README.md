@@ -33,10 +33,10 @@ Desarrollador de prototipos mecatrónicos integrando hardware (ESP32, sensores, 
 * **Descripción:** Ingeniería de detalle para instalaciones eléctricas de talleres industriales y diseño mecánico de sistemas de transporte.
 * **Tecnologías:** `Autodesk Inventor` `AutoCAD` `Normativa CNE`
 * **Implementación:** Cálculo de cargas (VA), factor de simultaneidad, selección de interruptores termomagnéticos/diferenciales y conductores NH-80 para taller de 600 m²; además de modelado 3D y desarrollo de chapa metálica (flat pattern) para transportadores helicoidales.
-* 🔗 [Ver planos y renders](#)
+* 🔗 [Ver planos y renders](https://github.com/victor-francisco-commits/diseno-electrico-cad-mecanico)
 
 ---
 
 ### Contacto Profesional
-* **LinkedIn:** [linkedin.com/in/tu-perfil](#)
-* **Correo:** tu.correo@ejemplo.com
+* **LinkedIn:** [linkedin.com/in/victor-urday-rivera]([#](https://www.linkedin.com/in/victor-urday-rivera-992291415/))
+* **Correo:** victor123456789francisco@gmail.com
